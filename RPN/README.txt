@@ -1,0 +1,5 @@
+This lab was very challenging as I am used to using more functions within my main instead of one big function. Keeping track of all the variables and structures was difficult, but MPLab helped trace them. The most important aspects of this lab is learning how to utilize the struct builder in C. With this we can create a node of information related to each other by the struct.
+
+This lab was mainly repeat for me, as I had built one previously for cs12b. The more interesting part was the input handling, as in 12b we used the unix timeshare instead of coolterm for I/O. Chomping off the extra newline character and other oddities was a new experience. I did not bother to read the lab manual first, as I already knew the gist of what was going to be created. The main thing that went wrong was the input handling and token parsing. I kept getting the wrong inputs and ended up replacing sscanf with strtod.
+
+The only improvements which I suggest for this lab is the implementation of typedef, since it goes hand in hand with structs. The point distribution seemed fair, I wish the extra credit section was a bit more thorough in what it was requesting.
