@@ -24,6 +24,7 @@ int main(void)
 		del(ll, 0);
 	}
 	print(ll);
+
 	getchar();
 	return EXIT_SUCCESS;
 }
